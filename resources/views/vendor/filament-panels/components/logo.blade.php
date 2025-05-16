@@ -1,0 +1,1 @@
+<img src="{{ asset('storage/dwiprintingsize.png') }}" alt="Logo" class="h-11">
