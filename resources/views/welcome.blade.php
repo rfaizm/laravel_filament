@@ -80,7 +80,7 @@ p {
         </div>
         <h1>Welcome to Dwi Printing</h1>
         <p>Your ultimate solution for custom t-shirt printing and more. Design, print, and wear your creativity!</p>
-        <a href="{{ url('admin') }}" class="get-started-btn">Get Started</a>
+        <a href="{{ url('owner') }}" class="get-started-btn">Get Started</a>
     </div>
 </body>
 </html>
